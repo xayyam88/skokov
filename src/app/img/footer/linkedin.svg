@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 20" width="22" height="20">
+	<defs>
+		<image width="22" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAUCAMAAAC+oj0CAAAAAXNSR0IB2cksfwAAAOpQTFRF/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBPHpHUwAAAAE50Uk5TAAlnjFkCAaP/ehH21QbSqjG72hxDWFoyDGieoXckyJUiYM7yW8CPIPv8Lh/twuadHtAX0dsEUmrwEjpN8xY8FSH9ypclP1FrkFAUjSuHVnj10wAAALlJREFUeJyVz2cPgkAMBuCqqOfEBeLGLeLeW9y4/v/fsUciyXHxg/3Qt3nSXHoALrdH8IKzfH5CSIDjYAg5zHEkiixyDLF4Qkzy/KNSgiSnQZFkWVaUTDaXL1hcxLdLoGIn5Qrt1RrlOk4NaLYoEKu0ts06ZdLp9mj0bR5QHuowGmNOpsz2DLfmmIslwyvkNeZmy/Duy3vmEp4N7R9WDw4+Yp7gTL9xQb7SAS+5maZ5h8cTw0B+Yb6VD3O6HJUV/kG0AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contact">
+		<g id="foother">
+			<g id="social-button">
+				<g id="linkedin">
+					<use id="linkedin" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<defs>
+		<image width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAAXNSR0IB2cksfwAAAJZQTFRF/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP+QR+xQAAADJ0Uk5T/wBq870VdL4B7FbufbneFmVLCeiRW/1GuOopF+blKjHxPxJ4XPL7jdgTMxm642cHtnGXbmhUAAAAk0lEQVR4nNXSSRPBUBAE4G4eXsSSiC2ECLHv///PeVGczMSVPnXVd+maGuBLWJK/4ErV1HSuu9awKnvFCZoq+wW3VG671umqHLgW6tN6EdDXmQNgONLZjoF4ojKnCTCbq8x0AXgZuVzlVmBma2CzDXeA2QvMQ/R+ISMxj6cX+yLT5ucnX2Qmr8Etie/StM/8NpfmASmsCEquFotZAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contact">
+		<g id="left">
+			<g id="contact-data">
+				<g id="phone">
+					<use id="phone" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

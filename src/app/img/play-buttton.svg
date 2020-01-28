@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 95" width="96" height="95">
+	<defs>
+		<image width="24" height="24" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAAXNSR0IB2cksfwAAASlQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////znvV+gAAAGN0Uk5TRKDdmT8EAQBvyv/jtHs9A4bP+GkwB4DM/e9ZIQz7v20YrGUf35JVJPrrlTsbBtKcBfPCg0MKuVge/mFkvl7mvIdGC+3LKwIxF82BUBz80KJW9q8ToR3spV8qcbd0LEeo6J9CacuYlQAAANlJREFUeJxjYGBkYmZhZWNHBwwcnFzcPLx8/BgSAoJcXFxCPMIiomgSYuJACS4JSR4paRksElxcstxy8grYJICASVFJGasEF5eKqpo6VgkuDU0tbR1dLBJcXJJ6+nwGbFgkuLgMjYxNTLFJAF1oZm6BVYLLUs4KuwSXkTVWCQkbW2ksEnb2Do5OGJZLOLsYu+q6YXqQydjdgx/Tg55e3j6YQeLr5x/ghBmIgdxBasFuGMFuqRniHaqLGbVh4RGRbuwogCHKk8suOiYWI5kwxMUnJCYZoAuzswMAb4coTefTJXUAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { mix-blend-mode: luminosity;fill: #fd504f } 
+	</style>
+	<g id="what-we-do">
+		<g id="play-buttton копия">
+			<path id="bg" class="shp0" d="M48 1.98C73.42 1.98 94.02 22.58 94.02 47.99C94.02 73.4 73.42 94 48 94C22.58 94 1.98 73.4 1.98 47.99C1.98 22.58 22.58 1.98 48 1.98Z" />
+			<use id="play" href="#img1" x="40" y="36" />
+		</g>
+	</g>
+</svg>

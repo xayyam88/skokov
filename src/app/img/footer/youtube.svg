@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 22" width="18" height="22">
+	<defs>
+		<image width="18" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAAWCAMAAAD6gTxzAAAAAXNSR0IB2cksfwAAAcVQTFRF/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBPVajQqAAAAJd0Uk5TABAMEghvtA7XKd5lAS0VHgoEuOKBYc4iy0bQGXL/M7tcws1J2RpC7wfAU7lfSD7nA8NMQPSht+A92qzzGBF/UlpeWztdbIJ4e4V3cGQ8iotta2O6m8r5FzX3h1VFoivMpq9Y9rGex5Z1gy6wOJj4TcaaiK4d8U9uoDKl/EohxJlUWYQ6qjbyJVbRyanufifU1i/T6AkPEynHQQkAAAE3SURBVHicY2BgYGBkYmBmYUABrGzsHJyoQpxc3Bw8vHwM/AL8gjAxIWERUS4xcQlJKWmYkIysnLyCooKSsooqTEhNXUNTS1tHQpcDrkpP38DQSEhUwhghpGbCY2pmbmFpZW0DE7IVZRCws2dwcHSCCji7uLK6ibh7eHp5+yj4gkT8ZFGAPwODjX5AYFAwkB0SChYKC2eIiIxiiZYAsmNiIcoiGNRkZePiFUMSEkWVk5JTJFNlYxh0ZWU509K5MzJFvbKyc3I58/LBQgWFrh5FLsXRpllOJaVlDJJgoXK7Iher6IrK2KrqGgZfWdnaunqthqjGpuaW1kS5NjWGdlnZjs4uvYbuIi2LnhC5Xtk+Bo1+VKdO0GBgmJg9yXxyjzoQ9Ew278+eCPYkz5Sp0/iAYBrjFB4gFwBz7UZAkimFogAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contact">
+		<g id="foother">
+			<g id="social-button">
+				<g id="youtube">
+					<use id="youtube" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

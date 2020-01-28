@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<defs>
+		<image width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAAXNSR0IB2cksfwAAAJlQTFRF/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBPPXZCrgAAADN0Uk5T/wC61+7WseuVgv78c5/jY/bwWsXaXunhVNzm39RYZMq9V+Lv/X1dzaV0daaaiIubqsyjQtApMgAAAIBJREFUeJxjYCAAGPGAES/NxMyCBFjZ0KTZOTi5YOHIzcPLhy7NwMQvAJEVFBJmwJRmEBEVA8mKS0gyYJNmkBKVZmCQkQUpwiYtLSEnryCqqIRdWl5IWUVVVUVZTR2btIYmN9ThWtqY0jq6iBSip48ubaBgiAQUjEgL1JEnjRcAAEOOC62WD54RAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contact">
+		<g id="left">
+			<g id="contact-data">
+				<g id="message">
+					<use id="message" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

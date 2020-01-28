@@ -1,0 +1,24 @@
+@font-face {
+font-family: 'Verdana Pro Regular';
+src: url('../fonts/VerdanaPro-Regular.eot');
+src: url('../fonts/VerdanaPro-Regular.eot?#iefix') format('embedded-opentype'),
+url('../fonts/VerdanaPro-Regular.woff') format('woff'),
+url('../fonts/VerdanaPro-Regular.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@mixin Verdana {
+    font-family: 'Verdana Pro Regular', sans-serif;
+}
+@font-face {
+font-family: 'Verdana Bold';
+src: url('../fonts/Verdana-Bold.eot');
+src: url('../fonts/Verdana-Bold.eot?#iefix') format('embedded-opentype'),
+url('../fonts/Verdana-Bold.woff') format('woff'),
+url('../fonts/Verdana-Bold.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+@mixin Verdana-bold {
+    font-family: 'Verdana Bold', sans-serif;
+}

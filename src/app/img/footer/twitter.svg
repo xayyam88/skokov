@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 18" width="22" height="18">
+	<defs>
+		<image width="22" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAASCAMAAABo+94fAAAAAXNSR0IB2cksfwAAAOpQTFRF/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBPHpHUwAAAAE50Uk5TAAglHwEaY9j79r83FGguFtxLav/46LUDMflmE+/+xwIhsjg6isB2QV/tFVLkCSnz8MiQJtdARM8ETZefNqYMbduwD6PmbjSJyey2aSoNEtzVmQAAAL9JREFUeJxV0NcSgjAQBdBVLKhYg2JDsWBBrKBi713//3ckmDjJfdo5k7K7AGx8foGWgeBfQ2ExEo1J8YRbJ1NpohmEI2dzggKQR4Wip6Wyx0ithKoAmopQre5yA5E0FXwqh0u91e4Q7fqwGj2TXCZs9jEPhiPEZez9VNV5RZNfX5bN85T0O4uyOne4MWgWdGZnyeiKWdF6Q1Xf0lUBCLs90cORavtk00HOl8D/AeV6uz9EVTafLwP4SNZb+7DwBV+hGXhbSNtOAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contact">
+		<g id="foother">
+			<g id="social-button">
+				<g id="twitter">
+					<use id="twitter" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

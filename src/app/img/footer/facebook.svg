@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 22" width="12" height="22">
+	<defs>
+		<image width="12" height="22" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAWCAMAAADD5o0oAAAAAXNSR0IB2cksfwAAAJ9QTFRF/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP5X7z0QAAADV0Uk5TAAsUEAdHs+Lt6bkCZP/YGfTVVbdZQ2k9aGY7A6bE3tOlBOTZ5tCMy7x5YjU+aj9g7zkJFQXAPkvOAAAAgElEQVR4nK3NWRKCMAyA4YiKYi0obqAWirviUij3PxtpbGc4AHn6v5mkBfjPwBuObI79yTSYMeo5NxNSRwvCkhBjrdbxhrBF7Ow1JF2kiD3V4SgyRC6EZFCcuJ0zQHFxuOLaTd6xHlI+6eyFKN1r5p93b/ggvg4/pVTlUGutGxMt4U0L+hENIRcAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contact">
+		<g id="foother">
+			<g id="social-button">
+				<g id="facebook">
+					<use id="facebook" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

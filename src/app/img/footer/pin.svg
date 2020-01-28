@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<defs>
+		<image width="30" height="30" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAAAXNSR0IB2cksfwAAAMZQTFRF/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBP/lBPsgAaxQAAAEJ0Uk5T/wAGbMzuyWYEEMO8Dbrt9a9G6UgBBXD9O5dUlI64EVGrLG2ccbUIGuNkEtmH7+gLVf5JnZDa0wc6/PkxhXzKxy4pN/HR1QAAAKdJREFUeJzV0ccOwjAQBNBZIGBa6DVA6B1C7/X/f4pY4RChtbnCHDyynmRpZOBLSJN/4UAwZBjhiOA5GvOWxhMsJ92LmXKPNMcZIJvLF4oloMxwBajKtoAaw3WgIdv2ve7jJtCS3QY6DHeBXp9oMARGDI9NYDK1ZsDc4YYt3j+8XLG7ae3xhnh2tlJ3ewXT4QiczqRiugBXUrO43YWG6fEkHX/kt1mbF5RPC267NNquAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="contact">
+		<g id="left">
+			<g id="contact-data">
+				<g id="city">
+					<use id="pin" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
